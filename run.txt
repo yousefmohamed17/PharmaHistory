@@ -1,0 +1,25 @@
+1
+تشغيل قاعدة البيانات MySQL
+XAMPP Control Panel
+
+------------
+
+2
+
+تشغيل سيرفر Laravel
+
+بورت 8000
+php artisan serve
+----------------
+
+3
+تشغيل سيرفر الذكاء الاصطناعي Python
+بورت 8001
+
+python -m uvicorn main:app --reload --port 8001
+
+------------------------
+
+4
+تشغيل واجهة React
+npm run dev
